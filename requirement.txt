@@ -1,0 +1,24 @@
+# Core runtime
+numpy
+pandas
+pyarrow
+tqdm
+nltk
+pydantic
+packaging
+
+# Model and retrieval
+torch
+transformers
+sentence-transformers
+
+# OpenAI-compatible inference
+openai>=1.45.0
+httpx
+tenacity
+filelock
+requests
+
+boto3
+litellm
+vllm

@@ -1,0 +1,902 @@
+{
+  "docs": [
+    {
+      "idx": "event-7e187223673fa9734aa830d6fb3f14d3",
+      "event": "On 26 August 2022 at 9:18 pm, James said goodbye to John, first by saying, 'See you John, bye!' and later adding, 'Of course, there are also light beers!'. John responded by agreeing and planning to meet the next day at McGee's Pub, to which James confirmed, 'See you John, bye!'.",
+      "source_facts": [
+        "fact-e6552c41fe5ffd77e287df33f4d15cb4",
+        "fact-e6552c41fe5ffd77e287df33f4d15cb4",
+        "fact-e6552c41fe5ffd77e287df33f4d15cb4",
+        "fact-bd3e8a3434f552a5ea3c170957d5d104"
+      ]
+    },
+    {
+      "idx": "event-f762522ffe0835b590ee3f920cb504db",
+      "event": "On June 16, 2022, at 5:07 pm, James shared a photo of a dog laying on a person on a couch with John, expressing his gratitude for having a support system. He then shared a photo of a video game scene featuring a man and a woman, indicating that he had recently signed up for a cooking class and felt motivated to learn something new. John, who had started a blog about coding, shared a photo of his computer screen with a program on it and expressed excitement about his new venture. James encouraged John, asking about his progress and sharing his own experiences, including his cooking class and a great omelette he made during the first lesson.",
+      "source_facts": [
+        "fact-f17f66517d58b2232d42be461ea2ad44",
+        "fact-da0e4d47b43c8cd4809ed2833628aeb5",
+        "fact-cffe6eb51c78b4039144dcec03dd6f23",
+        "fact-cffe6eb51c78b4039144dcec03dd6f23"
+      ]
+    },
+    {
+      "idx": "event-442f0ecceb5c47ac22c491db936412b9",
+      "event": "On 29 April 2022 at 2:36 pm, James thanked John for a book recommendation, sharing a photo of a set of three books on a wooden table. James expressed gratitude and shared his excitement about checking out the trilogy, mentioning that his dog Daisy had joined him while he was playing a game. On 3 October 2022 at 9:20 am, James again thanked John for a game recommendation, sharing his enthusiasm for the immersive world and story of the game John suggested. On 5 November 2022 at 5:20 pm, James thanked John for a gaming genre suggestion, expressing interest in trying a new game in the sports genre, specifically mentioning FIFA 23.",
+      "source_facts": [
+        "fact-859b2f8a1d9aeefedc2822993984487b",
+        "fact-859b2f8a1d9aeefedc2822993984487b",
+        "fact-859b2f8a1d9aeefedc2822993984487b",
+        "fact-a69e2fb7d9679c1114680860fa2ffce0"
+      ]
+    },
+    {
+      "idx": "event-e4e9079ce4128e9660d975376986a572",
+      "event": "On 7 November 2022 at 8:57 pm, John bid farewell to James, saying 'Thanks, gonna go, sorry. Cheers! Bye!'. James responded with 'Later! Take care!'. On 9 July 2022 at 5:13 pm, James bid farewell to John, saying 'Thank you, John! Take care and see you soon!', to which John replied, 'Take care, bye!'. On 12 April 2022 at 9:52 am, James bid farewell to John, saying 'Cheers! Will do. Enjoy the gaming! Bye!', to which John responded, 'Bye for now!', and James concluded with 'See ya! Take care!'.",
+      "source_facts": [
+        "fact-68f415a1480d906e70658b2dcf8852a1",
+        "fact-68f415a1480d906e70658b2dcf8852a1",
+        "fact-68f415a1480d906e70658b2dcf8852a1",
+        "fact-54e7408311f6e544a0f6470ab14f9ce0"
+      ]
+    },
+    {
+      "idx": "event-0ae0e4d0fe856264cd03c83495358d3a",
+      "event": "On 13 June, 2022 at 4:30 pm, John expressed his gratitude to James for his support during his job search. John had just received an offer for his dream job after numerous interviews and late nights, and he was thrilled about starting his new journey next month. James congratulated John and inquired about the start date. On 10 August, 2022 at 9:16 am, John thanked James again, asking about his recent activities. James mentioned taking his three dogs to a beach outing to bond with other dogkeepers. John appreciated the experience and shared a photo of a refrigerator with a calendar and a magnet. On 9 July, 2022 at 5:13 pm, James thanked John and wished him well, to which John responded with a similar sentiment.",
+      "source_facts": [
+        "fact-ef15c39b273c8dd854c1fa8c75b8680e",
+        "fact-ef15c39b273c8dd854c1fa8c75b8680e",
+        "fact-ef15c39b273c8dd854c1fa8c75b8680e",
+        "fact-85eafe1f133847cba929ca941742d402"
+      ]
+    },
+    {
+      "idx": "event-c0c977476950143b6bba3717b2dcc7af",
+      "event": "On 17 March 2022, John inquired about what project James was working on that made him feel accomplished. James shared that he had been wanting to create a computer game since he was a child, showing a photo of a drawing of a girl in a plane. He explained that he had been drawing comics as a kid and now wanted to turn his childhood sketches into a game. On 1 September 2022, John expressed admiration for James's game, sharing a screenshot and asking what inspired him to create it. James mentioned his love for strategy games like Civilization and Total War, which motivated him to challenge himself and create his own game. On 2 October 2022, John asked James what inspired him to create his game, and James shared that the Witcher 3 had a significant impact on him, inspiring him with its world and story, and pushing him to create something cool. John also inquired about future plans for game development, to which James did not provide specific details.",
+      "source_facts": [
+        "fact-15f02d5f7358d15c32768abb75c0e5ab",
+        "fact-294e4ab939a3cbb0d2ef2568cb43bcde",
+        "fact-faae1bbcadb8cb4926b8ac73806a0390",
+        "fact-b6a0c9fb4f3905f521465e01575adf18"
+      ]
+    },
+    {
+      "idx": "event-a2afd7171f529d700ae7ec076c31b76c",
+      "event": "On April 29, 2022, at 2:36 pm, James inquired about John's current projects, specifically mentioning his first professional project, which was a website for a local small business. John expressed gratitude and shared that the project was a great opportunity to apply his class knowledge. James congratulated John and inquired about the progress of the project. On June 13, 2022, at 4:30 pm, John asked James to elaborate on his projects, focusing on a new part of a football simulator where James was working on collecting player databases. James mentioned that the task was challenging but completed successfully. On November 7, 2022, at 8:57 pm, James asked John about a specific project he had worked on, and John shared that he had collaborated with a game developer to create an online board game, expressing his pride in seeing his ideas come to life. John also inquired if James chose his course because of his love for football.",
+      "source_facts": [
+        "fact-a0e3cd79c1f8e6c5ca654c2afeae5997",
+        "fact-bef0ed5fe8713c342a416299871a80a9",
+        "fact-11961dc517b2d678e93ca77cc8368760",
+        "fact-459b0d64bbb2b0a412afc0d5b007fbde"
+      ]
+    },
+    {
+      "idx": "event-de891f13fe19e729dff53a793c4d58c2",
+      "event": "On September 4, 2022, at 9:23 pm, James inquired about recent developments in John's life. John responded by mentioning he had purchased new gaming equipment, specifically new headphones, to enhance his gaming skills. James asked for more details, inquiring about the company John chose and other devices he bought. On October 13, 2022, at 2:14 pm, John asked James about any new developments in his life, sharing that he had recently organized an online competition with his programmer friends, which was a great experience. James congratulated John and shared that he had made and released his first game, expressing excitement about the experience. John inquired about the fulfillment James felt from seeing players engage with the game world he created. On September 20, 2022, at 8:56 pm, John mentioned he had started a new startup, a portable smoker, and had already welded one from metal, asking James for his opinion on the appearance. James responded by asking about any new developments in John's life.",
+      "source_facts": [
+        "fact-ecc6d3561e87e4e295aec5e72bec06c3",
+        "fact-ecc6d3561e87e4e295aec5e72bec06c3",
+        "fact-aa9874cce64455556d3cbc8da1f9a60e",
+        "fact-110fd81e095b7303d95f1937c40a932c"
+      ]
+    },
+    {
+      "idx": "event-277eab6c774a6e9db1d3f7415225d506",
+      "event": "On 6 August 2022 at 1:45 pm, John expressed gratitude for James's support, mentioning his plan to host Fortnite competitions and gain experience. James responded positively, suggesting that trying different game genres could be beneficial. John thanked James for his support, stating, 'Thanks! I am very glad that you support me in my new endeavor!' On 13 October 2022 at 2:14 pm, John reaffirmed his support for James, saying, 'I'm here for you. Anything you need, count on me!' James acknowledged this support and thanked John, saying, 'Thanks, John! Your support is really appreciated.' John responded, 'No worries, James! We make a good team.' On 4 September 2022 at 9:23 pm, James thanked John for his support and expressed appreciation, saying, 'Thanks for your support, John! I really appreciate it. I hope I can treat you to my creation once I learn a little more about cooking.' John encouraged James, saying, 'I look forward to it, James, you can do it!' James added, 'Your words give me even more strength to pursue my new hobby!'",
+      "source_facts": [
+        "fact-54ac7d050b5c98748292639476ab316f",
+        "fact-66ac5f10ed0418db915ad62bdffa05f7",
+        "fact-e88202fa043118346df8b752bd7486a0",
+        "fact-20ae7c39e324e2fefc08319f4d8ef7ae"
+      ]
+    },
+    {
+      "idx": "event-4fdef9f84f516e953d086497c6c0bac4",
+      "event": "On 6 August 2022, at 1:45 pm, John inquired about James's recent activities, mentioning that he had taken his puppy to the clinic the previous day. John expressed concern about the puppy's health, asking if it was okay. James responded that the puppy was fine. John then shared a photo of his desk with a computer monitor and keyboard, indicating he was currently working on some freelance programming to improve his coding skills.",
+      "source_facts": [
+        "fact-d4811a2a005b5af2c0a143342506c2b6",
+        "fact-d4811a2a005b5af2c0a143342506c2b6",
+        "fact-50517d979a4953e2794502f7120ebeab",
+        "fact-28c90f2e35ca3f276cee19169abf6d5c"
+      ]
+    },
+    {
+      "idx": "event-a5889076baec6b775f5743646a4e0721",
+      "event": "On 29 April 2022, at 2:36 pm, James inquired about John's current activities, to which John replied that he was taking on freelance programming to hone his coding skills, finding it challenging but rewarding. James encouraged John, noting that freelancing is a great way to sharpen skills and gain experience, and asked about the specific projects John was working on.",
+      "source_facts": [
+        "fact-d4811a2a005b5af2c0a143342506c2b6",
+        "fact-d4811a2a005b5af2c0a143342506c2b6",
+        "fact-50517d979a4953e2794502f7120ebeab",
+        "fact-28c90f2e35ca3f276cee19169abf6d5c"
+      ]
+    },
+    {
+      "idx": "event-aadd64bb8990daf00b45bb927219484d",
+      "event": "On 4 May 2022, at 7:01 pm, John inquired about James's recent activities since their last conversation, mentioning an eventful week. James responded that he had been working on a project for weeks but encountered a frustrating issue that prevented him from finishing it. John empathized with James's frustration and asked for more details about the problem with the project.",
+      "source_facts": [
+        "fact-d4811a2a005b5af2c0a143342506c2b6",
+        "fact-d4811a2a005b5af2c0a143342506c2b6",
+        "fact-50517d979a4953e2794502f7120ebeab",
+        "fact-28c90f2e35ca3f276cee19169abf6d5c"
+      ]
+    },
+    {
+      "idx": "event-ff2fa8fd5f74d65b7abd1ce13126baf1",
+      "event": "On April 29, 2022, at 2:36 pm, James asked John about the game he has been playing lately. James shared a photo of a person holding a blue controller and mentioned that he has good cuddle buddies who love to watch him gaming. John replied that he is currently playing AC Valhalla and suggested that James try some strategy games. James thanked John and shared a photo of a map of the world on a TV screen, indicating he is trying out strategy games as well.",
+      "source_facts": [
+        "fact-11a2cc16c90de343aad4cc1aa9be5d9c",
+        "fact-11a2cc16c90de343aad4cc1aa9be5d9c",
+        "fact-82ab8e897b41d578e83dca150b888725",
+        "fact-aa03376b32e3ef7317ef75ea23276c6a"
+      ]
+    },
+    {
+      "idx": "event-52055e4ba7e6eefac903027f3bce5361",
+      "event": "On November 5, 2022, at 5:20 pm, James inquired about the games John is currently playing, expressing his interest in new recommendations. John recommended FIFA 23, a great football game that allows online play with players from around the world. James expressed interest in trying a new gaming genre, specifically the sports genre.",
+      "source_facts": [
+        "fact-11a2cc16c90de343aad4cc1aa9be5d9c",
+        "fact-11a2cc16c90de343aad4cc1aa9be5d9c",
+        "fact-82ab8e897b41d578e83dca150b888725",
+        "fact-aa03376b32e3ef7317ef75ea23276c6a"
+      ]
+    },
+    {
+      "idx": "event-f91a733a9fce58f2f967d709d8fdb731",
+      "event": "On April 4, 2022, at 2:13 pm, John asked James about the game he likes to play with his team, emphasizing the importance of communication and teamwork in gaming. James mentioned that he uses voice chat for effective communication with his team. John praised this method and inquired about the game James plays with his team.",
+      "source_facts": [
+        "fact-11a2cc16c90de343aad4cc1aa9be5d9c",
+        "fact-11a2cc16c90de343aad4cc1aa9be5d9c",
+        "fact-82ab8e897b41d578e83dca150b888725",
+        "fact-aa03376b32e3ef7317ef75ea23276c6a"
+      ]
+    },
+    {
+      "idx": "event-fcd0db0c8652fb01abba8ebf18fbbb49",
+      "event": "On 22 July, 2022 at 9:49 am, John expressed gratitude to James for the advice he received. John said, 'I'll definitely look into that. Appreciate the advice!' James responded, 'No worries, John! Happy to help. Just let me know if there's anything else I can assist you with.' John then shared a photo of a group of children holding a skateboard from elementary school, expressing his gratitude and reminiscing about their friendship. On 23 April, 2022 at 11:04 am, John sought advice from James about a new algorithm he was working on but was stuck with. James suggested breaking the problem down into smaller steps and seeking help from other programmers. John thanked James for the advice, saying, 'Thanks for the advice, James. Much appreciated.' On 21 October, 2022 at 7:36 pm, James expressed gratitude and intention to remember John's advice, saying, 'Thank you very much, I will definitely keep this in mind!' John then gave a piece of advice to James, saying, 'And remember, you don't have to be friends with every character in this game. I don't want to spoil it, but just remember this!' James acknowledged the advice, saying, 'I'll definitely take your advice, John! Thank you for avoiding spoilers.'",
+      "source_facts": [
+        "fact-3d0a81957dc00742750658415b92651d",
+        "fact-3d0a81957dc00742750658415b92651d",
+        "fact-ea4448959d8dbc8325d6c0fa18ad90a4",
+        "fact-dcc02c0e2a81ea875969511f416b9873"
+      ]
+    },
+    {
+      "idx": "event-ee556dab8c44775ffb94d4647b39393d",
+      "event": "On 7 November 2022 at 8:57 pm, James bid farewell to John and wished him well, saying, 'Luna's a great name!' John responded with, 'Thanks, gonna go, sorry. Cheers! Bye!,' to which James added, 'Later! Take care!'. On 3 October 2022 at 9:20 am, James wished John well and said goodbye, saying, 'Cool, John. Will do! Take care, see ya!' John replied, 'Take care! Enjoy that new computer. Later!' On 12 April 2022 at 9:52 am, James again bid farewell to John, saying, 'Cheers! Will do. Enjoy the gaming! Bye!' John responded with, 'Bye for now!', and James concluded with, 'See ya! Take care!'",
+      "source_facts": [
+        "fact-bab75dec2964156f9adc1343b3566af8",
+        "fact-bab75dec2964156f9adc1343b3566af8",
+        "fact-36ce06a9563eb5c87313186aa057d7d3",
+        "fact-54e7408311f6e544a0f6470ab14f9ce0"
+      ]
+    },
+    {
+      "idx": "event-d02c10429bc8a42fbe9da749c46f96bc",
+      "event": "On August 6, 2022, at 1:45 pm, John shared a photo of a desk with a computer monitor and keyboard, mentioning that he will do something if necessary. James responded by sharing that he took his puppy to the clinic the previous day, to which John expressed concern about the puppy's well-being. On August 21, 2022, at 3:57 pm, John shared a photo of his new gaming desk with a computer and a keyboard, expressing his excitement about his new gaming setup, which includes a powerful graphics card and a headset for immersive sound. He shared that he has a similar gaming chair and keyboard. John also mentioned that he has been using his gaming PC for intense games and that gaming helps him stay focused and motivated. James, in response, shared a photo of his gaming room with a computer and a gaming chair, and mentioned his regular gaming group and their recent get-together.",
+      "source_facts": [
+        "fact-4f6b56d631ffe07050253dff97c90ba9",
+        "fact-3e2a25d2d61a4d03d8f6588dcfb34e22",
+        "fact-b3e883fd1d8d8765887d010e556cd155",
+        "fact-755bf535106f9393012990597b5fff9b"
+      ]
+    },
+    {
+      "idx": "event-9cde7ffd1624070c8cb400843638a092",
+      "event": "On June 13, 2022, at 4:30 pm, John expressed his gratitude to James for his support after securing his dream job. John shared his excitement about the job offer and mentioned that he had gone through numerous interviews and late nights to achieve this. James congratulated John and expressed his happiness for John's success. On August 21, 2022, at 3:57 pm, John thanked James again, saying he was looking forward to family game night and that it was nice catching up. James responded by saying he was glad to talk to John and wished him a great time at the game night. On June 16, 2022, at 5:07 pm, James expressed his gratitude to John for his support, mentioning the importance of taking breaks for recharging. John acknowledged James's statement and assured him that he would always be there to support him, advising James to take care of himself.",
+      "source_facts": [
+        "fact-002ccf57c648e2dd71af76cd60a8398d",
+        "fact-e3e68eec4662147c6a1a83a70abad94c",
+        "fact-af66957bd9ba33bcddf4b981cc160d06",
+        "fact-ef15c39b273c8dd854c1fa8c75b8680e"
+      ]
+    },
+    {
+      "idx": "event-23ead98c914e12f94b5d159efb50764d",
+      "event": "On 7:33 pm on 23 May, 2022, James inquired about what was new with John. James shared that he had an awesome time at the amusement park with his friends last weekend, mentioning that he went on some great roller coasters and other attractions like the Ferris wheel, electric cars, and buggies. He also noted that it reminded him of his childhood and felt like he was in a video game. John responded positively, expressing that the rides brought back great memories and asked if there were any other attractions besides the roller coaster. James then asked John what was new with him.",
+      "source_facts": [
+        "fact-cafec02b6a9b39ca3687e04797d97356",
+        "fact-192bf4b5d851d44609032528e00ee5b4",
+        "fact-2c61d547888cecac5233b6d6c13bc220",
+        "fact-d4811a2a005b5af2c0a143342506c2b6"
+      ]
+    },
+    {
+      "idx": "event-e2099d584aeea5808689b3bea5549878",
+      "event": "On 9:16 am on 10 August, 2022, John inquired about James's recent activities. John shared a photo of his gaming room with a computer and a gaming chair, stating that he had organized his workplace. James complimented the wall lighting in John's workspace. John then asked James what was new with him.",
+      "source_facts": [
+        "fact-cafec02b6a9b39ca3687e04797d97356",
+        "fact-192bf4b5d851d44609032528e00ee5b4",
+        "fact-2c61d547888cecac5233b6d6c13bc220",
+        "fact-d4811a2a005b5af2c0a143342506c2b6"
+      ]
+    },
+    {
+      "idx": "event-36bbf575308276bf42914ccc9007f979",
+      "event": "On 1:45 pm on 6 August, 2022, John inquired about James's recent activities. John shared a photo of his desk with a computer monitor and keyboard and asked what was new with James. James mentioned that he took his puppy to the clinic the previous day. John expressed concern, asking what happened to James's puppy and if it was okay.",
+      "source_facts": [
+        "fact-cafec02b6a9b39ca3687e04797d97356",
+        "fact-192bf4b5d851d44609032528e00ee5b4",
+        "fact-2c61d547888cecac5233b6d6c13bc220",
+        "fact-d4811a2a005b5af2c0a143342506c2b6"
+      ]
+    },
+    {
+      "idx": "event-b8a7902f40d55f495940bcf63023987d",
+      "event": "On 9:49 am on 22 July, 2022, John bid James farewell by saying, 'Still, the photo is amazing!' James responded, 'I have to go, I'm tired over the last two days. Bye!' John then said, 'Take care, bye!'On 9:52 am on 12 April, 2022, James bid farewell to John by saying, 'Cheers! Will do. Enjoy the gaming! Bye!' John replied, 'Bye for now!'On 2:13 pm on 4 April, 2022, James bid farewell to John by saying, 'Sure John, I'll keep you updated on all the new games. Talk to you soon! Bye for now!' John responded, 'Let me know how it goes. Stay safe. Talk to you soon. Bye!'",
+      "source_facts": [
+        "fact-59abcf7a4ecfe16014bcd90290d2b2cf",
+        "fact-f59074b2b305f1864d993763cd66970f",
+        "fact-54e7408311f6e544a0f6470ab14f9ce0",
+        "fact-54e7408311f6e544a0f6470ab14f9ce0"
+      ]
+    },
+    {
+      "idx": "event-db7c42a2f0464aee4da3ea424654d400",
+      "event": "On 6 August 2022 at 1:45 pm, John expressed his gladness about James's support for his new endeavor. John mentioned his plan to host Fortnite competitions and gain experience in the field, emphasizing his appreciation for James's support. James responded positively, suggesting that trying different game genres could be beneficial. John explicitly thanked James for his support, stating, 'Thanks! I am very glad that you support me in my new endeavor!'On 4 September 2022 at 9:23 pm, James thanked John for his support and expressed appreciation. James mentioned his hope to treat John to his cooking once he gains more skills. John responded, 'I look forward to it, James, you can do it!' James's words further strengthened his resolve to pursue his new hobby. John had previously expressed gratitude to James for his support on 16 June 2022 at 5:07 pm, saying, 'Definitely! Taking breaks is important for recharging. Thanks for the support!' James responded, 'No problem, always here to have your back. Take care of yourself!'",
+      "source_facts": [
+        "fact-311369bbfb3977bb31f69aa7b6867089",
+        "fact-af66957bd9ba33bcddf4b981cc160d06",
+        "fact-bae7cb6846aca1483044a26ce64a8914",
+        "fact-20ae7c39e324e2fefc08319f4d8ef7ae"
+      ]
+    },
+    {
+      "idx": "event-e0cb0891e6b6dca60e54abb6742fa5c5",
+      "event": "On 9:49 am on 22 July, 2022, John expressed his gratitude to James for the positive feedback he received about his reasons for playing chess. John shared his passion for strategy games and his belief that chess can improve his decision-making skills. James responded positively, encouraging John and suggesting that playing chess will help develop his skills. John thanked James and expressed excitement about how chess could enhance his strategic thinking in everyday situations, asking for tips for improvement. On 9:16 am on 10 August, 2022, John thanked James for complimenting his gaming room setup, which included a computer, a gaming chair, and wall lighting. John shared a photo of his gaming room and thanked James for his comment. On 3:57 pm on 21 August, 2022, John expressed gratitude to James again, saying he was looking forward to an upcoming event and thanking James for the conversation, wishing to chat soon and have a good night.",
+      "source_facts": [
+        "fact-1ef129e1fab4aa541a3d9e19b5fb75fc",
+        "fact-d6efcc1cc3ef74723caae9fe2916f7ca",
+        "fact-ee0117cf8fb629f0b41503d85309669a",
+        "fact-002ccf57c648e2dd71af76cd60a8398d"
+      ]
+    },
+    {
+      "idx": "event-b570b58c2f87465a13de434714c9fd69",
+      "event": "On 4 September 2022 at 9:23 pm, James expressed gratitude to John for his support, acknowledging John's encouragement as a source of strength for pursuing a new hobby. John responded by affirming their friendship and stated, 'That's why we are friends, to support each other!' On 16 June 2022 at 5:07 pm, James thanked John for his support, saying, 'Definitely! Taking breaks is important for recharging. Thanks for the support!' John replied, 'No problem, always here to have your back. Take care of yourself!' On 1 September 2022 at 6:53 pm, James expressed support and encouragement to John, emphasizing the value of their friendship during difficult times. John appreciated this support, saying, 'Your friendship really means a lot. I'm going through some difficult times now and it's really good to know I've got someone like you.' James further affirmed his support by offering to be a listener, stating, 'Just know I'm here if you need someone to talk or vent to. It might help alleviate some of the difficult times you're going through.'",
+      "source_facts": [
+        "fact-f8a2820281f98e58af5afc306e32c7d4",
+        "fact-af66957bd9ba33bcddf4b981cc160d06",
+        "fact-00079402ec2595587f986408bc2a7010",
+        "fact-56f9a41ab8d817b30d166093db706b4c"
+      ]
+    },
+    {
+      "idx": "event-780072356b32caf313020c8e23aadf9f",
+      "event": "On 10 August, 2022 at 9:16 am, John wished James a good time, encouraging him to call Samantha and hoping everything would work out for him. James confirmed he would call her. On 21 August, 2022 at 3:57 pm, James wished John a good night, advising him to have fun and suggesting they chat soon. On 31 October, 2022 at 12:37 am, John wished James good luck regarding their time together at the bar, expressing excitement and asking James to keep him posted.",
+      "source_facts": [
+        "fact-3c056e9ff74bdeace6725c5608a064ae",
+        "fact-4f2ac41537e2c5af5f5fcce4d9320ef9",
+        "fact-af2e8c14ac6c40e008d7850ca6ca840d",
+        "fact-1ecaaf30fd967c541e6085ed284bab34"
+      ]
+    },
+    {
+      "idx": "event-58816c1304485a090cefdc2729cdb158",
+      "event": "On 9:18 pm on 26 August, 2022, James inquired about the specific game John played, expressing his admiration for the combination of learning and gaming for coding education. John described the game as a simple, text-based adventure game that helps with coding skills and fun. John also mentioned that they might create their own video games in the future. James shared his interest in creating a strategy game like Civilization, highlighting the complexity and depth of such games. On 2:13 pm on 4 April, 2022, John asked James about the game he likes to play with his team, to which James replied that he uses voice chat for effective communication. John suggested that voice chat is a good plan for communication. On 12:37 am on 31 October, 2022, James asked John for more details about the gaming tourney, including who helped out and what other games were played. John informed James that he organized a gaming tourney with his buddies, where they played Fortnite, Overwatch, and Apex Legends. They raised a decent amount for a children's hospital, making the event both fun and meaningful. James praised John for using their love of gaming for a good cause.",
+      "source_facts": [
+        "fact-112b784a6a80b369b9005cb80c8eddc8",
+        "fact-a4daa2f62765b592536e0ab2027f5df4",
+        "fact-aa03376b32e3ef7317ef75ea23276c6a",
+        "fact-e5b41d440ddee0e86aa5d304be31a829"
+      ]
+    },
+    {
+      "idx": "event-cc4b7ec013da18e278c69c6a692afc48",
+      "event": "On October 3, 2022, at 9:20 am, John expressed excitement about James's interest in RPGs, specifically mentioning his enthusiasm for the game Cyberpunk 2077. James shared his excitement about the game and asked John for his opinion. John confirmed that he had played the game and described it as 'awesome' with an immersive world and an amazing story, encouraging James to try it. On October 13, 2022, at 2:14 pm, John expressed further excitement about James's future journey in game development, praising his determination and love for the field. John encouraged James to keep going and assured him that he would do great things, emphasizing his support. James acknowledged this support and expressed his own excitement about creating more enjoyable gaming experiences. On March 27, 2022, at 12:40 am, John shared his experience of playing CS:GO in an intense tournament, describing it as thrilling. James acknowledged the thrill of competition in gaming and expressed his own excitement about the competitive aspect of the game, which inspired John to improve his own gaming skills.",
+      "source_facts": [
+        "fact-fed5f4e03e83daeb58796225274eb7b6",
+        "fact-7bf38a674cf4461871a1996a4062bfa7",
+        "fact-c298c96c0f90e7487cdbf95800affa32",
+        "fact-3dae0546d6a07995d323c2ddb6485c04"
+      ]
+    },
+    {
+      "idx": "event-355f8f9b42331263222e4c0a95ef6e9c",
+      "event": "On March 17, 2022, at 3:47 pm, John inquired about what motivates James to work on his programming projects. James explained that creating something and seeing it come to life gives him a great sense of accomplishment, and he keeps track of his goals in a notebook, which he finds very satisfying. James shared a photo of a person holding a notebook with a list of things on it. John then asked James about the specific projects he is working on, to which James responded that he is looking to branch out and suggested that John might have some ideas for new areas to explore in programming. On October 21, 2022, at 7:36 pm, James asked John for ideas on new areas to explore in programming, noting that trying new things keeps them on their toes and helps their creativity. John expressed interest in experimenting and was open to suggestions. James, in turn, asked John for specific project ideas to explore.",
+      "source_facts": [
+        "fact-5d9dff29e750ea12dce467955689e5c4",
+        "fact-5d9dff29e750ea12dce467955689e5c4",
+        "fact-5f4511bbf1151581c152fd14b669cbf7",
+        "fact-a0e3cd79c1f8e6c5ca654c2afeae5997"
+      ]
+    },
+    {
+      "idx": "event-693bc94075bd03af1d5f85079c6c79b8",
+      "event": "On 6 August 2022 at 1:45 pm, John expressed gratitude to James, saying, 'You're a great host, James! Well, I have to go, bye!'. James responded with, 'Thanks, John! Take care, bye!', wishing John well. On 21 August 2022 at 3:57 pm, John said, 'Thanks, James! Gonna have a great time. Talk to you later.', to which James replied, 'Take it easy. Have fun and let's chat soon. Have a good night!', further expressing his well-wishes. On 4 September 2022 at 9:23 pm, James thanked John for his support, saying, 'Thanks for your support, John! I really appreciate it. I hope I can treat you to my creation once I learn a little more about cooking.' John responded with, 'I look forward to it, James, you can do it!', and James added, 'Your words give me even more strength to pursue my new hobby!'.",
+      "source_facts": [
+        "fact-77ed0991bfc08a5c7243d04cb17feb23",
+        "fact-002ccf57c648e2dd71af76cd60a8398d",
+        "fact-2cd2c870ab15ffb6e103e00fb523d267",
+        "fact-20ae7c39e324e2fefc08319f4d8ef7ae"
+      ]
+    },
+    {
+      "idx": "event-09c31f96263107ccb9e1414bb6caa378",
+      "event": "On 22 July 2022, John recalled a photo from elementary school and shared it with James, showing a group of children holding a skateboard. John expressed gratitude and mentioned that Jill would be delighted. James acknowledged the photo and shared a photo of two people standing in front of a giant head, saying,",
+      "source_facts": [
+        "fact-b1dc3f2c788c60a5e315dcdbf09ab323",
+        "fact-8132910145ac912b53fcedaad0d3e735",
+        "fact-46badb79d4089f482ed786172eaa246e",
+        "fact-549e655f92bdae80e312a7befd1d009a"
+      ]
+    },
+    {
+      "idx": "event-908bb0df1b954271a899f447ac4f53dc",
+      "event": "John responded by sharing the name of the dog, Luna. James commented positively on the photo and asked John who the people in the photo are. On 7 November 2022, John asked James who the people in the photo of two people standing in front of a giant head are, indicating that he had previously shared a photo of a group of children holding a skateboard with James.",
+      "source_facts": [
+        "fact-b1dc3f2c788c60a5e315dcdbf09ab323",
+        "fact-8132910145ac912b53fcedaad0d3e735",
+        "fact-46badb79d4089f482ed786172eaa246e",
+        "fact-549e655f92bdae80e312a7befd1d009a"
+      ]
+    },
+    {
+      "idx": "event-d0b3ffafdb662d6f00d16a0a70487920",
+      "event": "On 3:47 pm on 17 March, 2022, John expressed excitement about James's project, acknowledging the combination of his passions and the potential outcome. John shared a photo of a medical chart with instructions for the procedure and said, 'That sounds really fulfilling! Combining your passions to make something new must be so exciting. Can't wait to see the outcome.' James responded with gratitude and enthusiasm, saying, 'Thanks John! It's super exciting. I'll keep you updated on the progress. Perhaps, thanks to your knowledge of HTML, I'll invite you to help with some things in my game.' John added, 'It will be great to work with you, James.' On 9:20 am on 3 October, 2022, John expressed excitement about his new role as a programming mentor for game developers, saying, 'They asked me to be a programming mentor for game developers. I'll be teaching coding and assisting with projects. I'm really excited to share my knowledge and motivate people who are passionate about gaming.' James expressed his excitement for John, saying, 'Wow, John! Mentoring programmers to make games sounds awesome! You must love it. How do you feel about starting this journey?' John replied, 'I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!' On 4:30 pm on 13 June, 2022, John shared his news about getting his dream job and said, 'I finally got my dream job! After lots of interviews and late nights, I got the offer and was ecstatic. Can't wait to start my journey!' James expressed his excitement for John, saying, 'Wow, John! Congrats on getting your dream job. I'm super stoked for you. When do you start?' John replied, 'Thank you! I'm starting next month.'",
+      "source_facts": [
+        "fact-a58d6ba55c2ce5eb452c03c827064761",
+        "fact-7896a0689f1271df64162a7860189140",
+        "fact-22472b2088c9d975b33c2b9cb8f4988f",
+        "fact-16fce2097f26bb29b41e242002cb7513"
+      ]
+    },
+    {
+      "idx": "event-41471ef3c83ac3f0838af265ca63f069",
+      "event": "On 9:26 pm on 20 March, 2022, James offered to help John find a pet, emphasizing the love and companionship pets bring. John acknowledged the offer and expressed his gratitude, saying, 'Cheers, James! Yeah, I'll keep that in mind. Appreciate the offer.' James responded, 'No problem, John! Let me know whenever you need assistance. Take care!'On 9:59 pm on 19 June, 2022, James offered to help John with a job opportunity, stating that there were still some previous staff available and that he could introduce John to them. John thanked James for the opportunity, asking if there would be an interview. James assured him that no interview was necessary, only that he be friendly, polite, and have a great desire to help people. John expressed his gratitude, saying, 'Thank you very much! Will there be some kind of interview required?'On 8:56 pm on 20 September, 2022, John thanked James for his offer to help, saying, 'Cheers, James! Appreciate your offer to help. I'll definitely let you know when the testing is ready. By the way, here is the book that helped me create the puzzles for this game.' He shared a photo of a book with a cartoon of a man playing a game. James responded, 'Wow, that book looks great! What other resources do you use to improve your game? Tell me about your gaming tips!' John replied, 'It is filled with awesome tips and insights on game design. I also watch tutorials and keep up with developer forums for information and ideas. Basically, staying informed and constantly learning is key!'",
+      "source_facts": [
+        "fact-7642e5a863d1baba75ada5fcc5a0aae8",
+        "fact-abedfa51b5cabc01d5630878e6e8bea7",
+        "fact-35f3427f3750c1527bc1190dcb3d6664",
+        "fact-69b9aebbd883ed2928a2f1f4ee7e3f44"
+      ]
+    },
+    {
+      "idx": "event-960c50b43eb41f88d34f1bf50c770f35",
+      "event": "On April 4, 2022, at 2:13 pm, John congratulated James on his performance and making it to the semifinals of a tournament. James responded that the final rounds were tough but enjoyable, and he had a great time competing with talented players. John asked if James had met any famous players, to which James did not provide a specific answer. On May 23, 2022, at 7:33 pm, James congratulated John on his achievement and recalled the excitement John must have felt during the tournament. John shared that he was excited about his achievement, receiving money for 2nd place, and felt that his effort had paid off. James acknowledged that growth and progress are more important than winning every time. On March 27, 2022, at 12:40 am, John informed James about his recent win, which was a significant confidence booster and a major achievement. James congratulated John and noted that games can boost confidence, and he was also challenging himself by learning to play an instrument. John shared a photo of his drum kit, and James reciprocated by sharing a photo of his own drum kit.",
+      "source_facts": [
+        "fact-ff1ad60d7e6c41b531ce90bd1469c260",
+        "fact-ff1ad60d7e6c41b531ce90bd1469c260",
+        "fact-0811b31e04695700d8166aecc17971a3",
+        "fact-ee18138271e30094f94398b8c1a64749"
+      ]
+    },
+    {
+      "idx": "event-2e733d9b98c8e5b588ed60950cb342ca",
+      "event": "On 6 August 2022 at 1:45 pm, John expressed gratitude to James for his support in his new endeavor. James assured John that he would be available for any financial assistance or advice, inviting John to contact him if needed. John responded positively, stating that he would seek James's help if necessary and shared a photo of his desk with a computer monitor and keyboard. On 20 March 2022 at 9:26 pm, James offered to help John find a pet, emphasizing that pets bring love and companionship. He also assured John that he was happy to help and invited John to contact him for assistance whenever needed. John appreciated the offer and agreed to consider it. In the same conversation, James reiterated his availability to provide assistance, telling John to let him know whenever he needed help.",
+      "source_facts": [
+        "fact-adbd38476246e400917b5f57972c019f",
+        "fact-c576d10e20cb82f2a6e8bb7faa4e8ec3",
+        "fact-5c7e8054e5ad622fffcc2adacbe96bf0",
+        "fact-9204b09e65df89da68eecec8291b3b06"
+      ]
+    },
+    {
+      "idx": "event-587f3151f140107483993d84f92ce79a",
+      "event": "On September 18, 2022, at 6:02 pm, John inquired about how James came up with the idea to write things down and where he gets his ideas. John shared a photo of a table with a laptop and a board game called 'Dungeons of the Dragon.' James responded by sharing a photo of a notebook with writing on it and explained that he started writing down everything he needed in a notebook to avoid forgetting tasks. John expressed his appreciation for this method and asked James how he came up with the idea and where he gets his ideas. James mentioned that he had a lot of tasks to manage and started writing them down to keep track. On October 21, 2022, at 7:36 pm, James asked John if he found any ideas to incorporate into his own work. John replied that he found some cool ideas and was excited to explore different programming techniques. James encouraged John to broaden his programming skills and try new techniques. On November 7, 2022, at 8:57 pm, James asked John about the specific project he worked on. John shared that he collaborated with a game developer to create an online board game, which was a fun and unique experience. James expressed his admiration for John's work and asked if the game had been released for others to try.",
+      "source_facts": [
+        "fact-d98ba7904baf0d20727cd0756c1416f3",
+        "fact-d0d3fe9258390a019dfce4703fd676d2",
+        "fact-d53f96e64a081548cc90d609d03a209a",
+        "fact-11961dc517b2d678e93ca77cc8368760"
+      ]
+    },
+    {
+      "idx": "event-70a4f8a28ca4ad4fe950f261b40af453",
+      "event": "On June 16, 2022, at 5:07 pm, James asked John for book series recommendations. John recommended 'The Stormlight Archive', 'Kingkiller Chronicle', and 'The Expanse' series, explaining that 'The Expanse' is suitable for science fiction enthusiasts. James thanked John and shared a photo of a CD with a picture of a knight on it, asking what makes these books his favorites. John replied that he is fascinated by the way these books create a magical world that allows readers to escape and that the characters feel very real. On April 29, 2022, at 2:36 pm, James mentioned buying an adventure book with fantasy novels and shared a photo of a person holding a book open to a picture of a male character, indicating his love for the fantasy genre and asking for book suggestions.",
+      "source_facts": [
+        "fact-e00de42cc517949b53462fdee6406781",
+        "fact-a020fd00e7dfffa6f87f05b0e3b23766",
+        "fact-840f004f0af6835b6defee9b5bf8177e",
+        "fact-ff11b32e4969c2260e73523f0e48005f"
+      ]
+    },
+    {
+      "idx": "event-f905d35a8eb0fd7e7e50dccc3f5a60b0",
+      "event": "On April 12, 2022, at 9:52 am, James expressed interest in John's new RPG game, asking if he would like it and showing willingness to try new games. John shared that he was playing a game with a cool story and futuristic dystopian world, and he sent a photo of a city at night. James responded positively, indicating his interest in trying the game. On April 4, 2022, at 2:13 pm, John inquired about James' thoughts on Apex Legends, noting its fast-paced gameplay and impressive graphics. James praised Apex Legends, emphasizing its standout features. John then asked James about any new games he was looking forward to trying out. On April 29, 2022, at 2:36 pm, James asked John about other fun games to play with others, specifically mentioning a game with multi-colored cards and numbers. John described the game, but James could not recall it, suggesting he might know other interesting games.",
+      "source_facts": [
+        "fact-6b31bccba1a8ac76e14f091cc27563f8",
+        "fact-6d47abdc40ec793ba59a291919947996",
+        "fact-a9220b503d10860fd031ba4bb6d98f83",
+        "fact-1c24a0428d089770310a40e45dfc1977"
+      ]
+    },
+    {
+      "idx": "event-611148808ed2af8822f4b9e49323f419",
+      "event": "On March 27, 2022, at 12:40 am, John expressed interest in James's new gaming setup and thanked him for his recommendations. James shared that he had recently acquired a cutting-edge gaming system with incredible graphics and had been playing various new games to relax after work. He also mentioned connecting with friends who shared his passion for gaming. John then shared a photo of a crowded gaming convention hall where he had tried out games, met developers, and participated in a tournament. On March 20, 2022, at 9:26 pm, James expressed gratitude to John for connecting with other gamers, highlighting the positive experiences of sharing tips, strategies, and stories. He noted that gaming brought people together, regardless of their backgrounds, and was a refuge for him during tough times. John agreed, emphasizing the power of gaming to create strong bonds. James also mentioned making a game avatar and joining a new platform, which allowed him to explore and chat with other gamers, creating a new adventure every time. He thanked John for his positive feedback and for helping him connect with a vibrant online community.",
+      "source_facts": [
+        "fact-b95178bdbad26de0110999b09762e342",
+        "fact-af92182083e7f8a7e1980db3322129e7",
+        "fact-b3b04514b60b6cf1dfc696b74f7bb699",
+        "fact-17e8ddbc3ce44fd58f9d98f957f26017"
+      ]
+    },
+    {
+      "idx": "event-f1ba2bcf19972d46485fb73860ef0057",
+      "event": "On 5 November, 2022 at 5:20 pm, James thanked John for a suggestion and expressed interest in checking out resources on chess openings. John shared a helpful resource and James acknowledged the suggestion. Later, on 9:52 am on 12 April, 2022, James agreed to check something out and informed John that he would let him know his thoughts. John expressed excitement to hear James' thoughts and wished him a great time. James confirmed his intention and wished John well, mentioning his enthusiasm for trying out the suggestion.",
+      "source_facts": [
+        "fact-cee79a100bfc17791379dc5149c1c81f",
+        "fact-d8b0efe0b980e2e742bb87bfc4eee841",
+        "fact-a69e2fb7d9679c1114680860fa2ffce0",
+        "fact-a69e2fb7d9679c1114680860fa2ffce0"
+      ]
+    },
+    {
+      "idx": "event-b297f2f41e9fe56adae482966f10e835",
+      "event": "On 9:49 am on 22 July, 2022, John expressed gratitude to James for his support, calling him a true friend and sharing a photo from elementary school where they were holding a skateboard together. John also mentioned that James's support was meaningful to him. On 9:59 pm on 19 June, 2022, James encouraged John, saying, 'We can do this together!' John acknowledged James's support and stated his determination to make a positive impact, to which James responded, 'You got this! Stay focused on your dreams and don't give up.' On 2:14 pm on 13 October, 2022, James thanked John for his consistent support, saying, 'You've always been there for me, John. Thanks for having my back.'",
+      "source_facts": [
+        "fact-2f8cf988f8e64055a84ce0cfcc548e8d",
+        "fact-f41346825992ce59bf9cb3779e592010",
+        "fact-26f1f4bcda19899f9d298a7ef1d5f1c4",
+        "fact-4d580fe54b43061c6f8f21bb7100ca6c"
+      ]
+    },
+    {
+      "idx": "event-5e98aab5334783f305d4476804a3f87e",
+      "event": "On June 13, 2022, at 4:30 pm, James expressed support for John, encouraging him to seek help if needed and expressing anticipation for John's upcoming endeavor. James said, 'It can be rough getting started, but I'm sure you'll do great. Don't be afraid to seek help if you need it. Can't wait to hear about your experience!' John responded, 'Cool! That sounds awesome. Combining your love of gaming and coding sounds like a dream. Tell me more! Are there any interesting projects you're working on?' On June 19, 2022, at 9:59 pm, James said, 'We can do this together!' John thanked James, saying, 'Thanks, James. Your support means a lot to me. I'm determined to make a positive impact.' James replied, 'You got this! Stay focused on your dreams and don't give up.' On September 20, 2022, at 8:56 pm, John expressed gratitude to James for his offer to help, saying, 'Cheers, James! Appreciate your offer to help. I'll definitely let you know when the testing is ready.' He also shared a photo of a book with a cartoon of a man playing a game. James responded, 'Wow, that book looks great! What other resources do you use to improve your game? Tell me about your gaming tips!' John explained, 'It is filled with awesome tips and insights on game design. I also watch tutorials and keep up with developer forums for information and ideas. Basically, staying informed and constantly learning is key!'",
+      "source_facts": [
+        "fact-09460bbfd9382f001db4e67c723b9068",
+        "fact-66bc0fb69e00f2f0eefc70d139c5b89e",
+        "fact-a948590d0ff97cc4fbad9a3267dd57c9",
+        "fact-69b9aebbd883ed2928a2f1f4ee7e3f44"
+      ]
+    },
+    {
+      "idx": "event-23ee5ab0421569a192adfab8db1e7eb4",
+      "event": "On 5:00 pm on 11 May, 2022, John expressed his hope to find a place where his skills and passions would be a perfect match and where he could make a positive impact. James encouraged him, saying, 'I'm sure you'll find the right spot, John. Your skills and passions will be a great addition. Good luck! ' John then thanked James, stating, 'Thanks, your encouragement means a lot.' On 7:33 pm on 23 May, 2022, James acknowledged John's support, saying, 'Thanks, I appreciate your support. I'll definitely keep that in mind.' John responded, 'No worries, I'm here to help. Keep going and reach those goals!' On 9:20 am on 3 October, 2022, John shared his excitement and inspiration about a new opportunity, expressing his joy in helping others and boosting his own skills. James praised John's efforts, saying, 'It's so rewarding to see how much joy you get from it. Keep going, you're doing great!' John thanked James, saying, 'Thanks, James! Your support really means a lot. It's so fulfilling to use my skills to make a difference. I hope this opens more opportunities for me.'",
+      "source_facts": [
+        "fact-0344b25a257ec477f6b0b1acf866ffe7",
+        "fact-afcd3ab0a95d9f57218b52d93b87abf9",
+        "fact-ab9c2b0de1e07586f44c9c3b013b382a",
+        "fact-a862351edaee86d898538331e6739bca"
+      ]
+    },
+    {
+      "idx": "event-ee36c257e39193ed9395dbccada1562e",
+      "event": "On 9:49 am on 22 July, 2022, John expressed happiness about James and his pets, noting the joy and love they bring. John said, 'Wow, that's great! Keeping active and happy is great for both of you.' James responded, 'Yep! Staying active with them builds a strong bond and makes us both happy.' John then shared a photo of a cat laying on a bed with a stuffed animal. On 7:01 pm on 4 May, 2022, John showed interest in James's life by asking about other sources of happiness. John said, 'Wow, James! Love hearing about the joy that furry friends bring into your life. What else brings you happiness?' On 3:47 pm on 17 March, 2022, John expressed happiness to speak with James and inquired about what motivates him. John said, 'Hey! Glad to finally talk to you. I want to ask you, what motivates you?' James responded, 'Hey John! Video games give me tons of joy and excitement, so they keep me motivated!'",
+      "source_facts": [
+        "fact-0a91d50d40b597f64eca0d4fa0706124",
+        "fact-e8b73f71247cef5fe2874f7c92c1223b",
+        "fact-6e0f7065209c04f263668ebb8b2b440f",
+        "fact-0eb586e9dd70709d6e125a13a891526e"
+      ]
+    },
+    {
+      "idx": "event-c45835b6b52e79a7c03f36e9805575e9",
+      "event": "On 9:49 am on 22 July, 2022, John expressed excitement about James's recent trip, particularly his visit to the city of Nuuk in another country. John acknowledged that James must have gained many impressions from his travels. James shared a photo of a cat laying on a bed with a stuffed animal and confirmed that his trip was successful, adding that he had added another country to his bucket list. John congratulated James on his experiences and the positive impressions he must have gained. On 4:30 pm on 13 June, 2022, James expressed excitement for John's recent achievement of getting his dream job. James congratulated John and asked about the start date. John confirmed that he would start his new job next month. On 5:20 pm on 5 November, 2022, James expressed excitement and congratulated John on winning the regional chess tournament. John explained that the tournament was intense but he emerged victorious. James asked John how it felt to come out on top.",
+      "source_facts": [
+        "fact-3deb0de1c8eb20cb3bc4b9d9526e67b6",
+        "fact-d16c852b9eb1c74ceaa4b067d8c3115f",
+        "fact-16fce2097f26bb29b41e242002cb7513",
+        "fact-7322be4bfd7ce952c0338b9abbc98b2c"
+      ]
+    },
+    {
+      "idx": "event-6a2cfdd2f2005fe350466d62bc3f633d",
+      "event": "On October 31, 2022, at 12:37 am, John asked James about his recent news, to which James responded with the news that he and Samantha had decided to move in together. John expressed his excitement and asked about the details, inquiring about the location of their new living arrangement. On October 3, 2022, at 9:20 am, John shared his recent news about a volunteer gig at a game dev non-profit, which combined his two loves - gaming and helping people. James expressed excitement about John's news, acknowledging the combination of his interests. John explained that he would be a programming mentor for game developers, teaching coding and assisting with projects. On June 13, 2022, at 4:30 pm, John announced that he had finally gotten his dream job, to which James responded with congratulations and excitement, asking about the start date. John confirmed that he would start his new job the following month.",
+      "source_facts": [
+        "fact-8763b4c7fd6846e24314fbc814afd053",
+        "fact-d42bf7c8494172c5979578c00ea09603",
+        "fact-09519091c913b02dbfb6629831f0550f",
+        "fact-16fce2097f26bb29b41e242002cb7513"
+      ]
+    },
+    {
+      "idx": "event-ab77f09224fd5b6866dafcc951512d09",
+      "event": "On 5:00 pm on 11 May, 2022, John thanked James for his encouragement, expressing that it meant a lot to him. James responded with, 'I'm here for you. Good luck! ' and John acknowledged, 'Thanks, James! Appreciate it. Take care and talk soon!' On 6:53 pm on 1 September, 2022, James thanked John for his support and encouragement, sharing his pride in finishing his Unity strategy game and emphasizing how John's belief in him made a real difference. John responded with excitement and inspiration, saying, 'I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!' On 9:20 am on 3 October, 2022, John thanked James again for his support, emphasizing its significance and expressing that it was fulfilling to use his skills to make a difference, hoping this would open more opportunities for him. James encouraged him with, 'It's so rewarding to see how much joy you get from it. Keep going, you're doing great!'",
+      "source_facts": [
+        "fact-afcd3ab0a95d9f57218b52d93b87abf9",
+        "fact-faa4a33bdb6093efbc0549c54f313166",
+        "fact-ee2498a2d3e74997de8c36e1057cff4f",
+        "fact-4c15a26a9b2769cb729c704b420db376"
+      ]
+    },
+    {
+      "idx": "event-0fd981160a5f57ecb1d73f0733da828b",
+      "event": "On 8:57 pm on 7 November, 2022, James expressed excitement about John's project, which involved collaborating with a game developer to create an online board game. John shared that the project was a fun and unique experience. James was impressed and asked if the game had been released for others to try yet. On 9:32 pm on 20 April, 2022, John complimented James on his project, expressing admiration for the work James did. John shared a photo of a video game screen with a man on it and asked if James had any screenshots of the virtual world he created. James responded that it was a lot of work but very rewarding and shared a photo of a woman dressed in armor kneeling on a rock. John was amazed and asked for inspiration behind the character. On 3:47 pm on 17 March, 2022, John expressed amazement and support for James's project, which involved creating a computer game based on a character James had been sketching since childhood. James shared a photo of a drawing of a girl in a plane and explained that he wanted to turn it into a computer game, feeling very accomplished about the project.",
+      "source_facts": [
+        "fact-eac4229b815d053c1d4f7eff4b8f7e1f",
+        "fact-a58d6ba55c2ce5eb452c03c827064761",
+        "fact-a7e86aee34a665c22a6c82bcb9167322",
+        "fact-ba72a09686fff6c8243c243463d1ac5a"
+      ]
+    },
+    {
+      "idx": "event-2320dad8227070d5056af8397f3b38d8",
+      "event": "On March 27, 2022, at 12:40 am, John inquired about James' specific current projects or upcoming challenges he is enthusiastic about. James mentioned his interest in exploring RPGs and strategy games, expressing excitement about trying different genres of games. John encouraged him to have fun and enjoy the experience. On April 12, 2022, at 9:52 am, James asked John about his progress on gaming goals, sharing that he had adopted a pup named Ned from a shelter in Stamford, which had improved his days. John responded positively, acknowledging the joy that pets bring and mentioned that he had not made much progress with gaming due to a busy work schedule but still found it a good way to relieve stress. On April 29, 2022, at 2:36 pm, James asked John about the specific challenges he has encountered, to which John acknowledged the difficulties and stated that he would keep pushing through them. James advised John to use challenges as opportunities to learn and grow, and John agreed, expressing his determination to overcome these obstacles.",
+      "source_facts": [
+        "fact-aeaa29fc50391f27100048c38428b068",
+        "fact-a4abe5a151241f03536627dfe3ff35be",
+        "fact-78c8c9544c181e73e8c23d864504057d",
+        "fact-577ad94186232cadb8190f4e2a50eb3e"
+      ]
+    },
+    {
+      "idx": "event-1d18de573f9bda71bcc264cc67647fbe",
+      "event": "On 9:18 pm on 26 August, 2022, John confirmed his agreement to meet James at McGee's Pub the next day. James suggested light beers, and John agreed, saying 'See you tomorrow at McGee's Pub!' James bid farewell to John by saying 'See you John, bye!', to which John responded with 'Thanks! Catch you later!'. On 7:01 pm on 4 May, 2022, John said goodbye to James after discussing something, saying 'Got it, will check it out. Thanks!', and James responded with 'Be sure to tell us your impressions when you try it! And Bon Appetit!', to which John replied 'Thanks! Catch you later!'. On 9:52 am on 12 April, 2022, James bid farewell to John after a gaming session, saying 'Cheers! Will do. Enjoy the gaming! Bye!', to which John responded with 'Bye for now!', and James added 'See ya! Take care!' to which John confirmed with 'Bye for now!'",
+      "source_facts": [
+        "fact-a1ca4c0a21d120607a1184bd3570acd9",
+        "fact-bd3e8a3434f552a5ea3c170957d5d104",
+        "fact-bd3e8a3434f552a5ea3c170957d5d104",
+        "fact-54e7408311f6e544a0f6470ab14f9ce0"
+      ]
+    },
+    {
+      "idx": "event-4c67dd6e30e2de7af86524e9b51e6c97",
+      "event": "On 7 November 2022, James expressed excitement about John's project, which involved collaborating with a game developer to create an online board game. John mentioned that the project was a fun and unique experience. James inquired about the project's release status, showing interest in its progress. On 13 June 2022, John asked James to elaborate on the projects he was working on, specifically mentioning his love for gaming and coding. James responded that they were currently working on a new part of a football simulator, focusing on collecting player databases, which he found challenging but rewarding. On 9:26 pm on 20 March 2022, James showed interest in John's findings, noting that he had already discovered something interesting, such as bottle caps, coins, and even a gold ring. James wished John good luck and mentioned he had something to show him, indicating a mutual exchange of information and excitement about their respective projects.",
+      "source_facts": [
+        "fact-12aada833614ad8eb278a0d61925a3dc",
+        "fact-7a2bd7ab312147ed6a243b9c8289d705",
+        "fact-a58d6ba55c2ce5eb452c03c827064761",
+        "fact-459b0d64bbb2b0a412afc0d5b007fbde"
+      ]
+    },
+    {
+      "idx": "event-d829db5405cb3428741d37d79e32ccef",
+      "event": "On 13 October, 2022 at 2:14 pm, James thanked John for his support, acknowledging John's offer to be there for him. John responded by saying, 'No worries, James! We make a good team.' On 20 March, 2022 at 9:26 pm, James offered to help John find a pet, expressing that pets bring love and companionship. John appreciated the offer and said, 'Cheers, James! Yeah, I'll keep that in mind. Appreciate the offer.' James assured John, 'No problem, John! Let me know whenever you need assistance. Take care!' On 19 June, 2022 at 9:59 pm, James expressed his willingness to support John in his endeavors, saying, 'We can do this together!' John acknowledged this support, expressing gratitude and determination, saying, 'Thanks, James. Your support means a lot to me. I'm determined to make a positive impact.' James encouraged John, saying, 'You got this! Stay focused on your dreams and don't give up.'",
+      "source_facts": [
+        "fact-4c37cf1bb64cf7fcfa658327dcea6e3b",
+        "fact-e88202fa043118346df8b752bd7486a0",
+        "fact-abedfa51b5cabc01d5630878e6e8bea7",
+        "fact-a948590d0ff97cc4fbad9a3267dd57c9"
+      ]
+    },
+    {
+      "idx": "event-b63f4b774ac7f691b1acc5123b9b294e",
+      "event": "On 1 September 2022, James expressed pride in John's game development, noting that John's ideas had come to life. James inquired about the game's release status, and John mentioned they were about to release a demo. James expressed his eagerness to try the game and support John by giving his thoughts. On 7 November 2022, James further complimented John on his determination and the realization of his ideas in the game. John acknowledged the upcoming demo release and expressed excitement for feedback. James, on 12 April 2022, initially hesitated to play the game due to minor bugs but was convinced by John to give it a try. John highlighted the game's graphics and immersive gameplay, even with minor issues, and sent James a link. James, grateful for John's encouragement, agreed to play the game after receiving the link.",
+      "source_facts": [
+        "fact-4445ba4635a0344672d8c14bba8dd77f",
+        "fact-4b9d2f2a76b20e30e893205280bc0260",
+        "fact-2bd8208256016cf7f6287eef3fa8223d",
+        "fact-9975b21dd6ce88b417c1d9073da3e600"
+      ]
+    },
+    {
+      "idx": "event-ca635ca795c88ef358c04c206800e27b",
+      "event": "On 10 August, 2022, at 9:16 am, John shared his recent interest in playing different game genres, specifically strategy and RPG games, and mentioned his plans to organize competitions for these genres. James appreciated John's exploration of new genres, asking about standout games. John highlighted a new RPG he was enjoying, praising its storytelling and characters. On 27 March, 2022, at 12:40 am, John encouraged James to set small goals and track progress, noting that this helps stay motivated. James expressed his interest in exploring RPGs and strategy games, which John found exciting. John responded positively, encouraging James to have fun with his gaming journey. On 13 October, 2022, at 2:14 pm, John expressed excitement about James's future in game development, praising his determination and love for the field. John looked forward to seeing James's creations and offered support, stating he would be there for James in any way needed.",
+      "source_facts": [
+        "fact-40be482eef49553170fb3e8f736f9dfa",
+        "fact-92fdfff4939b802f083e5a9f3302772b",
+        "fact-4967e8e03bcfc38c3b6464bcd2cfc576",
+        "fact-c298c96c0f90e7487cdbf95800affa32"
+      ]
+    },
+    {
+      "idx": "event-d5bb0fc50ed604075cde249c580dcc56",
+      "event": "On 22 July 2022, John expressed his interest in chess, mentioning that he is drawn to strategy games and believes chess can improve his decision-making skills. He asked James for tips on how to improve his chess skills. James responded positively, encouraging John and expressing his belief in the benefits of chess. On 5 November 2022, James asked John for tips to improve his chess skills, specifically in the area of chess openings. John provided advice on studying opening moves and strategies, learning from experienced players, and analyzing past games. He also offered to share resources on chess openings with James, who expressed gratitude for the offer.",
+      "source_facts": [
+        "fact-44e3da6c3a650fefef664fb5ea7ef258",
+        "fact-5217af55fdd3e3ef4290415c3369309c",
+        "fact-687b4c6d0dfd841d49f7c48b45bc513b"
+      ]
+    },
+    {
+      "idx": "event-ce86cada59b7e0450f7240b627168ba1",
+      "event": "On 6:53 pm on 1 September, 2022, James expressed his interest in creating a strategy game, mentioning his love for games like Civilization and Total War. John showed enthusiasm for James's decision, asking about the challenges he faced during development. James acknowledged the difficulties but mentioned that he managed to balance mechanics and ensure fairness through trial and error. On 9:20 am on 3 October, 2022, John expressed excitement about James's interest in RPGs, specifically mentioning Cyberpunk 2077. James shared his excitement about the game and asked John's opinion, to which John enthusiastically recommended it, praising its immersive world and story. On 3:57 pm on 21 August, 2022, John reminisced about his past gaming marathons, sharing a photo of him and his siblings playing games together. James expressed interest in these marathons, asking if John still plays with his siblings, to which John replied that they don't hang out much due to living far apart but always plan gaming nights when they do.",
+      "source_facts": [
+        "fact-40ef2a7e3992c3af186f3e9cb74e56e4",
+        "fact-4d7d9893049c6470b757a0133eba8238",
+        "fact-7bf38a674cf4461871a1996a4062bfa7",
+        "fact-a71627b992da29c580364fa8c42c7c73"
+      ]
+    },
+    {
+      "idx": "event-943e86dc171ebfbcc76e405b66853f90",
+      "event": "On September 20, 2022, at 8:56 pm, James asked John about any recent big moments. John shared that he had achieved a major career milestone by launching his first mobile game, which he was excited about. James congratulated John and shared a photo of a card with a graduation cap, prompting John to ask about any exciting times in James' life. James then revealed that he had proposed to Samantha at the theater and she had accepted, sharing that it was an exciting but overwhelming time for him. John expressed his happiness for James and shared a photo of his father coding for the first time, indicating that his parents had started learning coding from him, which was a bonding experience. James mentioned that they had also been to McGee's bar where Samantha enjoyed a lager beer, noting that they had a lot in common. On October 31, 2022, at 12:37 am, John inquired about James' recent news, and James shared that he and Samantha had decided to move in together, a significant and exciting decision for both of them.",
+      "source_facts": [
+        "fact-92333e5f2b1d543cb5315e78ba1ac06e",
+        "fact-220a5b110d377f782d91d43841f554e1",
+        "fact-ae67ba782f21f9c00f8ae394d376252b",
+        "fact-d42bf7c8494172c5979578c00ea09603"
+      ]
+    },
+    {
+      "idx": "event-5247b155eb41a36a5d32bfd6263c5b98",
+      "event": "On 17 March, 2022 at 3:47 pm, John expressed happiness to speak with James and inquired about what motivates him. James responded that video games give him joy and excitement, which keeps him motivated. John shared his own love for video games, mentioning that they help him relax after a long day. On 21 August, 2022 at 3:57 pm, John expressed gratitude to James, saying he was looking forward to something and would have a great time. James responded with encouragement, advising John to take it easy and have fun, promising to chat soon and wishing John a good night. On 11 May, 2022 at 5:00 pm, John again expressed gratitude to James for his encouragement, stating that it meant a lot to him. James reassured John that he was there for him and wished him good luck.",
+      "source_facts": [
+        "fact-08cd42ce9837d1eb2b92562172c67ed8",
+        "fact-0eb586e9dd70709d6e125a13a891526e",
+        "fact-002ccf57c648e2dd71af76cd60a8398d",
+        "fact-faa4a33bdb6093efbc0549c54f313166"
+      ]
+    },
+    {
+      "idx": "event-3574170d6134cbc3a7dbd0c2bef13dd2",
+      "event": "On May 4, 2022, at 7:01 pm, John shared his love for Hawaiian pizza, a combination of sweet and salty flavors, and asked James about other types of pizza he enjoys. He showed a photo of a Hawaiian pizza on a wooden board. James mentioned that he likes cheese pizza and prosciutto. John expressed interest in trying prosciutto pizza. Later in the conversation, John inquired about James's favorite type of pizza, revealing his own love for pizza and mentioning that his pets, computer games, and travel also bring him happiness.",
+      "source_facts": [
+        "fact-3d2fbc343a6c94883ac98e44fddb101d",
+        "fact-3d2fbc343a6c94883ac98e44fddb101d",
+        "fact-8c4c1e5b0ec97c3c50d323f9d95eb125"
+      ]
+    },
+    {
+      "idx": "event-d01fbd93d47a0b7b2ae147805f6ca6e5",
+      "event": "On 26 August, 2022 at 9:18 pm, James expressed excitement about John's project involving a text-based adventure game, praising the combination of learning and gaming as a fantastic way to teach coding. James asked for more details about the game and shared his own interest in creating a strategy game like Civilization. John responded positively, mentioning his pride in the project and suggesting the possibility of creating their own video games. On 3 October, 2022 at 9:20 am, John inquired about James's interest in games, specifically RPGs, and recommended Cyberpunk 2077, which James was eager to try. On 23 April, 2022 at 11:04 am, John expressed excitement about James's adventure, asking about pictures from the day. James shared a photo of a man walking two dogs on a path in the woods, describing it as a fun and adventurous experience with many trails to discover.",
+      "source_facts": [
+        "fact-fd7c33c48c5c4fa1c9f5aa9c592a7db1",
+        "fact-5119dc0f11dce41a8c061167e1d19ace",
+        "fact-7bf38a674cf4461871a1996a4062bfa7",
+        "fact-0ccdfc805f2a204a6b2be7830508dad2"
+      ]
+    },
+    {
+      "idx": "event-5a57c960aa25b7df567433b3750a47cf",
+      "event": "On 29 April, 2022, at 2:36 pm, James expressed that he could not remember a specific game but suggested to John that he might have other interesting games. John responded by mentioning he had been playing a game where players figure out who the impostors are, describing it as super fun. James showed interest in the game, noting that he had heard of it and was planning to try it out. On 3 October, 2022, at 9:20 am, John recommended the game to James, believing he would love it, and described it as having an immersive world and an amazing story. James expressed excitement about the game and thanked John for the recommendation. On 22 July, 2022, at 9:49 am, John shared a photo of a chess board with a laptop on it, indicating he was playing mostly online and had also joined a chess club. James commented on the intensity of the game, asking what had sparked John's interest in chess. John explained that he was drawn to strategy games and wanted to challenge himself, adding that he believed chess could improve decision-making skills.",
+      "source_facts": [
+        "fact-6c79fad977a88e0b7afd85fafe7966cc",
+        "fact-28e64021cc1252e5519142899da23ef1",
+        "fact-a5969ab1c05c0055d819d906a66b4fbd",
+        "fact-40ef2a7e3992c3af186f3e9cb74e56e4"
+      ]
+    },
+    {
+      "idx": "event-343995b1eafbca426a2c830ebff9947c",
+      "event": "On June 16, 2022, at 5:07 pm, John shared a photo of a bookshelf with a lot of books on it, stating that he had bought many new books and his bookcase was almost completely filled. James inquired about the genre of books John enjoyed reading. On July 9, 2022, at 5:13 pm, John shared a photo of a bookshelf filled with books and a guitar, explaining that he likes to relax by reading, finding it a fun escape from reality. James mentioned his love for reading, especially on cold winter nights, and expressed his excitement about upcoming travel plans to Toronto, which he would be leaving for the day after the following evening.",
+      "source_facts": [
+        "fact-31de10016e5ff7e8164b9c659fa2179f",
+        "fact-6f674764f233e7fd180cbe7de4be7689",
+        "fact-5a57896d3141c62094fea80dee1adeba"
+      ]
+    },
+    {
+      "idx": "event-168c0ce8cef6c2367c08779d765722f4",
+      "event": "James expressed his deep affection for his two dogs, referring to them as his 'best pals' and 'best buddies.' He shared a photo of the dogs playing in a field with a ball, emphasizing how much joy and companionship they bring to his life. James mentioned that life wouldn't be the same without them and that they make every day better, even on dark days. He also noted that his dogs are always there for him, much like having sunshine on a cloudy day.",
+      "source_facts": [
+        "fact-2b051bd82af94849cf055a824e2e4d27",
+        "fact-66d872c2fa6ce750276ab38059f2d748",
+        "fact-ea928c531b21a1c03db421889292b86d"
+      ]
+    },
+    {
+      "idx": "event-0456212c4f45e01852ea394bae67b9b4",
+      "event": "On March 17, 2022, at 3:47 pm, John inquired about James' experience with programming. John mentioned that he had signed up for a programming class and asked if James had ever done any programming. James responded positively, stating that he had tried programming in college and now it was a significant part of his life. John shared that he had some experience with HTML and CSS a few years ago and was looking to refresh those skills in his new class. James then asked John about his coding experience, and John expressed interest in learning more about James' favorite programming languages and any projects he had worked on.",
+      "source_facts": [
+        "fact-519ac10a3cf2d7e329f80f3ad3e51a0c",
+        "fact-62ae3e3a2e4d11df48789e0596acda75",
+        "fact-1089dd4900052c58ecfa0f6321203dba"
+      ]
+    },
+    {
+      "idx": "event-db67c4491ee2f2a24c8fde8ea4cb269b",
+      "event": "On October 21, 2022, at 7:36 pm, James shared that the games introduced him to gaming and he has been hooked ever since. He mentioned that he recently tried Cyberpunk 2077 and found it to be a great, addictive game. James also shared a photo of the video game cover for The Witcher Wild Hunt. John expressed his gladness that James was enjoying the game, noting that there would be many unexpected turns. James then asked John what the most difficult thing about the game was. James also reminisced about his childhood, recalling that he had a Nintendo gaming system as his first and played Super Mario and The Legend of Zelda for hours, which sparked his passion for gaming. He shared a photo of a Nintendo game console and a Nintendo Mario game controller, further emphasizing his fond memories of his early gaming experiences.",
+      "source_facts": [
+        "fact-03f0fcd3516f79153f0262fd746d672d",
+        "fact-d3b80d7e0729c01e5569c5abc97fd806",
+        "fact-594fe7efc93a373c238d5697ef4ad8c5"
+      ]
+    },
+    {
+      "idx": "event-34aa99854bd8fe40d41cc3f278536696",
+      "event": "On March 17, 2022, at 3:47 pm, John shared his experience with VR gaming, describing it as highly immersive and expressing his excitement to try it with James. He mentioned, 'Tried it a few times, it's insane how immersive that experience can be. Can't wait to try it together with you.' James responded positively, suggesting they do it the following Saturday, to which John agreed. John also proposed trying VR gaming, stating, 'Heard about VR gaming? It's pretty immersive. We can try it together!'",
+      "source_facts": [
+        "fact-e9bcbc0209afa3dc54084bc93f10feb9",
+        "fact-8687ca23ed831ea78e45e3918c27eead",
+        "fact-1141efd4bb6fbddd0b4a110e72e78cf3"
+      ]
+    },
+    {
+      "idx": "event-5480a3ab09f3a7be92500aad1ed8789b",
+      "event": "On 13 October, 2022, at 2:14 pm, John congratulated James on his success in the gaming community. John shared that he had recently organized an online competition and was excited to see everyone showcase their skills. James responded by congratulating John and sharing that he had made and released his first game for the gaming community, which was an exciting experience. John asked if it was fulfilling to see players engage with the game world James had created.",
+      "source_facts": [
+        "fact-8fe4a6108b4a7f1e75e5d32b5ce09f1e",
+        "fact-0f5d66e21dd91391ee80d947495f8bfd",
+        "fact-c0e9e9a0381a810032b9385623fb9a9c"
+      ]
+    },
+    {
+      "idx": "event-726754a12f0bfe5dac9de88948f6a5ae",
+      "event": "On April 23, 2022, at 11:04 am, John expressed to James that he has been very busy at work with numerous deadlines and a lot to do, making his situation hectic. James then inquired if there was something specific that was making John's work situation worse. John responded that he was having trouble with a difficult project involving coding, which was frustrating because he dislikes being stuck and not making progress. On May 4, 2022, at 7:01 pm, John asked James if he had resolved the issue on his own, to which James replied that he couldn't figure it out alone but got help from a group of friends and successfully fixed the problem. John acknowledged that having a reliable team can make a significant difference.",
+      "source_facts": [
+        "fact-1ef4d6c565a86dd5695190d46520ec7f",
+        "fact-80b9027e91b9b0bf427e7853f63035fb",
+        "fact-4a6682eaa850db77168252888c903fc9"
+      ]
+    },
+    {
+      "idx": "event-b040d18a56ba7f4c9b6704092445c6d2",
+      "event": "On April 20, 2022, at 9:32 pm, John expressed his belief in the rejuvenating effects of rest and travel, sharing that he finds motivation to work after spending time with friends and traveling. James agreed, mentioning that he visited Italy the previous year, describing it as a beautiful country with delicious food. John then inquired about other countries James had visited, to which James responded positively, mentioning Nuuk, the capital city of Greenland. On July 22, 2022, at 9:49 am, John asked James about his trip, sharing a photo of a cat with a stuffed animal. James recounted that his trip was successful and that he had visited Nuuk, adding another country to his travel list. John expressed enthusiasm and admiration for James's experiences, noting the positive impressions James had gained from his travels.",
+      "source_facts": [
+        "fact-09e8ff200e993987d91af595584f2d0b",
+        "fact-6692d884e71647f0976b17f98eef3f81",
+        "fact-28aa008868542ab135baac43a1dacc6a"
+      ]
+    },
+    {
+      "idx": "event-33697593eb3e664092e60e2f99648bdd",
+      "event": "On October 21, 2022, at 7:36 pm, James expressed interest in how the programming seminar went and asked John if he learned anything new. James mentioned that he had lost some progress due to forgetting to save, but he learned to save more often. John informed James that he organized the seminar the previous week. James responded with enthusiasm, asking John how the seminar went and if he learned anything cool. John shared that he gained insight into various programming approaches and techniques and found it interesting to hear other developers' ideas and strategies. James provided positive feedback, saying, 'That's great, John! Sounds like the seminar went well.' He then asked John if he found any ideas that he would incorporate into his own work.",
+      "source_facts": [
+        "fact-2a04a29b300ada88863220205a7d1d54",
+        "fact-afd2c925677cfdc8214c5c147e6a6d06",
+        "fact-bc02fab2cc98a4c10eb0d73748520e0e"
+      ]
+    },
+    {
+      "idx": "event-a6851564e0ae741d6ee48c0ad2f3b4b6",
+      "event": "On September 18, 2022, at 6:02 pm, John expressed interest in James's inspiration from dreams, noting that James gets ideas from various sources including dreams. John specifically asked if any specific dreams have guided James's ideas. James confirmed that dreams have inspired him and shared a vivid dream about a medieval castle with a labyrinth full of puzzles and traps. John was intrigued and asked if James had any sketches or notes from that dream, expressing a desire to see them.",
+      "source_facts": [
+        "fact-f77832081f2e2dc60e8fa02d3d270a91",
+        "fact-5d32686c93df2db129410e47c10450ae",
+        "fact-a4593662ea6a66c197e122342581c380"
+      ]
+    },
+    {
+      "idx": "event-2b015acdbd55d6576a87ba47ab08a28b",
+      "event": "On 8:56 pm on 20 September, 2022, John inquired about the progress of James' week, praising the magazine and noting its usefulness for improving game development skills. James responded positively, mentioning the tutorials and developer interviews in the magazine. John encouraged James to continue using such resources and asked how his week was going. James replied that the magazine was indeed helpful and suggested they keep up the good work. On 7:01 pm on 4 May, 2022, James inquired if John was working on anything that day, expressing his appreciation for a reliable team and the benefits of working together with passionate individuals. John mentioned having a day off and spending time with new friends watching movies, emphasizing the importance of balancing work and enjoyment. He invited James to join them next time.",
+      "source_facts": [
+        "fact-5213adfcdc9ea5c17128de3d1d44658a",
+        "fact-d9bd0d37f6d21827c4a43524f455267d",
+        "fact-a4359ae37cee6c1522f48dced12e45c4"
+      ]
+    },
+    {
+      "idx": "event-6e74966d1a2e4318f0b9c456e0e6204f",
+      "event": "On 23 May, 2022 at 7:33 pm, James congratulated John on his achievement and asked if he received any rewards or prizes for his success. John mentioned that although he didn't win the tournament, he received money for 2nd place, which he found satisfying. James responded positively, emphasizing that growth and progress are more important than winning every time. On 20 September, 2022 at 8:56 pm, John informed James about his major career milestone of creating a mobile game, which was launching the following month. He shared a photograph of a demonic demon flying with a sword. James congratulated John and asked for more details about the game, to which John explained that he had been working on it for several months and was proud of the 2D adventure game with puzzles and exploration. He had kept it a secret to avoid disappointment if it didn't work out.",
+      "source_facts": [
+        "fact-5e3221274e241ce5f187cf6ade9c3bf3",
+        "fact-8a3930e7a1d994dc97e24e48fbe5064f",
+        "fact-0d21cc3059836522d639a95c1da2e1de"
+      ]
+    },
+    {
+      "idx": "event-00311f34b6852ca1d54654f4bfcf5b24",
+      "event": "James expressed his joy and gratitude for his two dogs, sharing a photo of them playing in the park. He emphasized that his pets are the source of his joy and that he will always take care of them. John acknowledged James's care for his pets, praising him as a great host.",
+      "source_facts": [
+        "fact-0847c78bb251c39edd1e8b348f58b94a",
+        "fact-3f9126f0561d11306accc4041511335d",
+        "fact-5a03112824a469cf88b0f45ae120f7bb"
+      ]
+    },
+    {
+      "idx": "event-7c1a7be8a24d17427472979ddfcba0c2",
+      "event": "On April 23, 2022, at 11:04 am, John expressed his frustration to James about his busy work schedule with numerous deadlines. He specifically mentioned that a difficult coding project was the source of his frustration, stating that he was stuck on it and hated not making progress. James offered to help, and John elaborated that he was struggling with a complex coding problem, feeling that he had been staring at it for a long time without making any significant progress. He asked for James' assistance in coming up with ideas to improve a new algorithm he was working on.",
+      "source_facts": [
+        "fact-e56b76ff19142f931db3b2d16e0026d1",
+        "fact-7eba23172c40b9bce60d376af7b50ff0",
+        "fact-c98b9f0c052ca35f0293bec8cc699fbf"
+      ]
+    },
+    {
+      "idx": "event-592bfb50b07764fdf15307b17fd4f504",
+      "event": "John mentioned organizing a programming seminar last week, sharing that he learned about various programming approaches and techniques during the event. He agreed to share resources and tutorials on the new programming approaches and techniques he learned with James, expressing that these resources would be interesting and potentially helpful for James's own learning and experimentation.",
+      "source_facts": [
+        "fact-a4b3db5f7e8306733b652509a22b58e4",
+        "fact-d8a26154487ca9a3059506189bf544c7",
+        "fact-f4396ff6396f60fc430ff5e01716b9bc"
+      ]
+    },
+    {
+      "idx": "event-0c453bd2b324b6f70afde762d8d15617",
+      "event": "On April 12, 2022, at 9:52 am, James expressed agreement with John by saying, 'Okay, you convinced me. Well, I'll wait for the link then, thanks!'. John responded positively, saying, 'Cool, I'll send it to you. Let me know what you think after you check it out!'. James further confirmed his agreement by saying, 'Cool, John! I'll check it out and let you know what I think. I'm excited to give it a try.' On August 21, 2022, at 3:57 pm, John thanked James for the agreement and expressed their intention to talk later by saying, 'Thanks, James! Can't wait! It was nice catching up - talk soon!'. James responded, 'Hey John! Good to talk to you. Have fun at family game night! Talk to you later.' John concluded by saying, 'Thanks, James! Gonna have a great time. Talk to you later.'",
+      "source_facts": [
+        "fact-804a48dc964ea0c9cce3184e116e9a25",
+        "fact-be3a4c4009190362c1133bbd082482f9",
+        "fact-2a6f1ab4020ac458f274e6e85ea7ba7a"
+      ]
+    },
+    {
+      "idx": "event-2936ca5ca079678c5621128d4bb3f281",
+      "event": "On June 16, 2022, at 5:07 pm, John asked James about the name of the dog in a Facebook photo, noting it was cute. James responded by sharing a photo of a dog named Max, describing him as lovable and playful, and explaining that Max brings him joy, especially during tough times. On November 7, 2022, at 8:57 pm, James commented on how adorable the puppy is and asked for its name, to which John replied that the dog's name is Luna. James then expressed his approval of the name Luna.",
+      "source_facts": [
+        "fact-b1b9d708382ae1518ab7cba428636a04",
+        "fact-b418f01fe78cabae1850add3aa5050cb",
+        "fact-b19a28a8247454d7d4b9ac776b73524f"
+      ]
+    },
+    {
+      "idx": "event-f265f76694982092022620cd13ed076a",
+      "event": "On 3 October 2022 at 9:20 am, John expressed his enthusiasm for a game he had played, describing it as 'awesome' with an 'immersive world and an amazing story.' He invited James to share his thoughts on the game, expressing hope that James would enjoy it. James responded positively, showing excitement for the game and gratitude for the recommendation. John further encouraged James to share his thoughts, saying, 'Hope you have a blast playing. Let me know what you think!'On 4 April 2022 at 2:13 pm, John inquired about James' interest in new games, specifically mentioning the speed of the game as a fun aspect. James expressed his eagerness to try new games, mentioning a preference for RPGs and MOBAs. He shared a photo of a video game cover, indicating his interest in these genres. John responded positively, suggesting that RPGs and MOBAs can be engaging for their stories and multiplayer experiences, and invited James to share his thoughts on these games.",
+      "source_facts": [
+        "fact-e0486618deb3666c6fef0d2ee8378888",
+        "fact-c6fbad2711d3dd6b7af1623343a6523d",
+        "fact-4329ceec4198fbdc75a23c26ea585749"
+      ]
+    },
+    {
+      "idx": "event-0e0e0dab8ca0dbd3df9af37ecd8b1be1",
+      "event": "On 10 August 2022 at 9:16 am, John complimented James on a great picture, noting the stunning graphics. John shared a photo of his gaming room with a computer and a gaming chair, and James responded by complimenting the wall lighting in the workspace. John thanked James and inquired about what was new with him. On 17 March 2022 at 3:47 pm, John complimented James on a mod, praising the graphics and inquired about other programming languages James has worked with. James mentioned that he hasn't worked with any other programming languages but expressed a desire to do so in the future. John suggested the possibility of developing mobile applications together and asked if James liked the idea.",
+      "source_facts": [
+        "fact-0b81fd0decb6a65596f7b8fc78eee81f",
+        "fact-746ae6835085ff14b64d05f27fb8b706",
+        "fact-45d64ec49d1b235e6e1af66f449cd93a"
+      ]
+    },
+    {
+      "idx": "event-af6caf8b9f626c4099bcbfa7cf2e7894",
+      "event": "On October 13, 2022, at 2:14 pm, John encouraged James to keep going in his game development journey, expressing excitement about the future and praising James's determination. John assured James of his support, stating, 'I can't wait to see where your journey leads and the new creations you come up with. Your determination and love for game development is incredible. Keep going and you'll do great things!' James responded positively, saying, 'I'm really looking forward to creating more enjoyable experiences!' John further emphasized his support by saying, 'I'm here for you. Anything you need, count on me!' On May 23, 2022, at 7:33 pm, John reminded James to keep working towards his goals, saying, 'No worries, I'm here to help. Keep going and reach those goals!' James acknowledged John's support, replying, 'Thanks, I appreciate your support. I'll definitely keep that in mind.'",
+      "source_facts": [
+        "fact-a3d0f4c1f0e79e0d8e58309f4905d460",
+        "fact-416ebcbe63f021ec57dfcc4826f90ef0",
+        "fact-33e892901eeb4e6379d5867c867bf6dc"
+      ]
+    },
+    {
+      "idx": "event-b7829ca7e46be03e595b3f8cd22ead87",
+      "event": "On March 17, 2022, at 3:47 pm, John inquired about the names of James's pets and asked about his plans for the app. James responded that his pets were named Max and Daisy. He expressed his intention to build an app for dog walking and pet care, aiming to connect pet owners with reliable dog walkers and provide helpful information on pet care. John showed interest and suggested that the app would likely find many buyers, asking what sets it apart from other existing apps. On August 6, 2022, at 1:45 pm, James inquired about John's current plan. John shared that he had been thinking about his passions and decided to focus on the gaming industry, specifically organizing tournaments for various computer games in their state, such as CS:GO and Fortnite. He mentioned that he had already made some connections to help with Fortnite competitions and planned to gain more experience to be successful in this field.",
+      "source_facts": [
+        "fact-8a6a46ea8c8ee654e797d365489d585e",
+        "fact-2a1086153c66056b05a1d227db64332e",
+        "fact-cb1107ed9e7b4ba5f41130b87e653975"
+      ]
+    },
+    {
+      "idx": "event-b596182a02ac824e2cc9af3edcc310ba",
+      "event": "At 8:57 pm on 7 November, 2022, James and John discussed the positive impact of dogs on their lives. James expressed his agreement with John, stating, 'Yeah, they definitely do. Dogs always cheer us up, wagging their tails and giving us unconditional love. It's like having a dose of positivity and happiness every day. They're amazing!'",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-a96ea90e4c3732671fb68fe4d0ee3c9f",
+      "event": "Definitely, James! Dogs are amazing. They bring so much joy and positivity. They accept us without judgment, just love and happiness. I appreciate the daily dose of positivity they bring to my life. Special buddies for sure. By the way, here is my cousin's dog,",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-df1754cc30eac2b0a5f45e11e3941678",
+      "event": "This pup is so adorable! What's their name?",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-1e80e462aeeda30e874fb65e09d4c2cf",
+      "event": "Having furry friends around brings so much joy and friendship. Life wouldn",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-cc94be638684702e4769bb92df6629f0",
+      "event": "s better with them around.",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-6afc254e5cbdff176d6b437b558a71f3",
+      "event": "Yep, they bring so much joy and love. They",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-42b36f5f071504f2a2c8a1a3c13979f2",
+      "event": "s like having sunshine on a cloudy day.",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-d31abdf4089160e449fb725b42c3bfed",
+      "event": "My dogs are like that too - they even make dark days better. Don",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    },
+    {
+      "idx": "event-91ecf8ff06b36f0b4e53485a4c2013b2",
+      "event": "d do without them. They",
+      "source_facts": [
+        "fact-4d1e8fa23a9bc983aaa29a234c5163f9",
+        "fact-964ec99b735030628036bb2047618639",
+        "fact-b5e747a65ca27515f6c18b95880fae13"
+      ]
+    }
+  ]
+}

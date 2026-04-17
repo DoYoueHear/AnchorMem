@@ -1,0 +1,40 @@
+{
+    "stages": {
+        "summary": {
+            "prompt": 230263,
+            "completion": 32236,
+            "calls": 343,
+            "time": 0.0
+        },
+        "update": {
+            "prompt": 104714,
+            "completion": 14581,
+            "calls": 75,
+            "time": 87.7813994884491
+        },
+        "qa": {
+            "prompt": 245112,
+            "completion": 941,
+            "calls": 123,
+            "time": 29.30893898010254
+        },
+        "total": {
+            "prompt": 0,
+            "completion": 0,
+            "calls": 0,
+            "time": 0.0
+        }
+    },
+    "total": {
+        "prompt_tokens": 580089,
+        "completion_tokens": 47758,
+        "total_tokens": 627847,
+        "calls": 541,
+        "time_seconds": 117.9522054195404
+    },
+    "meta": {
+        "llm_name": "Qwen2.5-7B",
+        "dataset": "locomo",
+        "timestamp": "2026-04-15 20:13:23"
+    }
+}
